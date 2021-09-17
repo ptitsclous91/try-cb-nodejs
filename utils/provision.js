@@ -1,6 +1,6 @@
 'use strict';
 var config = require('./config');
-var request = require('request');
+// var request = require('request');
 var fs = require('fs');
 
 var checkInterval = config.application.checkInterval;
